@@ -12,7 +12,7 @@ The data is publicly on from the [e-courts district website](https://services.ec
 3. On the horizontal toolbar, the default selection is "Party Name". Click on "Act" to filter by Act
 4. Within the Act Type dropdown, select "Negotiable Instruments Act"
 5. In the Under Section, type 138
-6. Choose Pending / Disposed. The activity will have to be repeated for both.
+6. Choose Pending / Disposed. The activity will have to be repeated for both
 7. Enter captcha, and click go
 
 It should display a table. Wait while the data loads. It can take a while depending on the district. 
